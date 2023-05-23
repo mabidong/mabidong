@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://github.com/mabidong/mabi_tamang/blob/main/mabi%20banner.png)
+![logo](https://github.com/mabidong/mabidong/blob/main/mabi%20banner.png)
 <h1 align="center">Hi 👋, I'm Mabi Tamang</h1>
 <h3 align="center">A passionate data analyst & backend developer from London, UK.</h3>
 
